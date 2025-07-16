@@ -1,0 +1,2 @@
+1- Add framer motion to the whole website
+2- Ask GPT for what images to put in the Experiences section
